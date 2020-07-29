@@ -1,6 +1,6 @@
-# About
-kubectl - control the containers across nodes
-minikube - tool for running Kubernetes locally on one machine.
+# Basics
+`kubectl`  | control the containers across nodes
+`minikube` | tool for running Kubernetes locally on one machine.
 
 # Installation
  brew install Kubectl
