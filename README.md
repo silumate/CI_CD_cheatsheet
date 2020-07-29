@@ -1,16 +1,13 @@
-# CI/CD Cheatsheet
-A collection of useful command line tools for Continuous Integration and Deployment
+# Cheatsheets
+A collection of useful commands to use on the command line.  These commands come from various online courses taken.
 
-# Versioning
+## Docker
+[Docker/commands.md](./Docker/commands.md)
 
-# Building With Jenkins
-
-# Unit Testing & Test Harness
-
-# Deployment
+## Kubernetes
+[Kubernetes/commands.md](./Kubernetes/commands.md)
 
 
 
-# References
-https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration/
+
 
