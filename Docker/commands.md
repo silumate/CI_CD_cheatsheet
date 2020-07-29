@@ -1,5 +1,5 @@
 
-# 
+# Useful commands
 
 Build & Run
 `docker-compose up --build -d`
@@ -20,3 +20,6 @@ Delete the container
 ssh into a container
 `docker exec -it <container name> /bin/bash`
 Use 'docker ps' first to get the container name.
+
+
+# References

@@ -104,3 +104,6 @@ minikube - tool for running Kubernetes locally on one machine.
  kubectl get secrets/apikey -o yaml
 
 
+# References
+Most of the commands were used for this course:
+https://www.linkedin.com/learning/learning-kubernetes/
